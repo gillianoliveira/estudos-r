@@ -6,3 +6,4 @@ O objetivo é ter uma referência rápida e fácil para agilizar as práticas do
 
 Os scripts desse repositório foram escritos utilizando a IDE RStudio 2023.12.1+402 "Ocean Storm" Release.
 
+🚧 Em atualização... 
