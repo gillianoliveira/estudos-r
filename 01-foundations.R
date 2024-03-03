@@ -2,6 +2,13 @@
 #                 R Basics
 #--------------------------------------------
 
+# Variáveis e tipos de dado
+# Vetores
+# typeof()
+# length()
+# list()
+# str()
+
 # Para dar sorte!
 print("Hello, World!")
 
