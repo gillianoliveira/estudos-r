@@ -45,5 +45,16 @@ str_glue('Menor ou igual: {var_2} <= {var_1} = {var_2 <= var_1}')
 str_glue('Menor ou igual: {var_5} == {var_3} = {var_5 <= var_3}') #TRUE
 
 # ---------------------------
-#   Operadores de Comparação
+#   Operadores Lógicos
 # ---------------------------
+var_a <- TRUE
+var_b <- FALSE
+var_c <- TRUE
+
+str_glue('AND: {var_a} & {var_b} = {var_a & var_b}') #FALSE
+str_glue('AND: {var_a} & {var_c} = {var_a & var_c}') #TRUE
+str_glue('AND: {var_a} && {var_b} = {var_a && var_b}') #FALSE
+str_glue('OR: {var_a} | {var_b} = {var_a | var_b}') #FALSE
+str_glue('OR: {var_a} || {var_c} = {var_a || var_c}') #TRUE
+
+str_glue('NOT: !{var_c} = {!var_c}') 
