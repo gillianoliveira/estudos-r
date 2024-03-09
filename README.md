@@ -20,7 +20,11 @@ Os scripts desse repositório foram escritos utilizando a IDE RStudio 2023.12.1+
 
 # Referências
 
+[Curso de R](https://curso-r.github.io/zen-do-r/index.html)
 
+[R Documentation](https://www.r-project.org/other-docs.html)
+
+[R para Ciência de Dados](https://r4ds.had.co.nz/index.html)
 
 
 
