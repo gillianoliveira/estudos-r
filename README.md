@@ -26,6 +26,8 @@ Os scripts desse repositório foram escritos utilizando a IDE RStudio 2023.12.1+
 
 [R para Ciência de Dados](https://r4ds.had.co.nz/index.html)
 
+[Palmer Penguins Dataset](https://allisonhorst.github.io/palmerpenguins/)
 
+[Data Analysis with R Programing - Coursera by Google](https://www.coursera.org/learn/data-analysis-r)
 
 
